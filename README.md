@@ -1,4 +1,12 @@
-Deluminate
+
+> A fork to properly support MS Edge. <br/>
+> Many thanks for the original authors of this plugin for their great work :)<br/><br/>
+> For installations, please see ```install.md```
+
+<br />
+
+# Deluminate
+
 ==========
 
 [![Chrome Web Store](
