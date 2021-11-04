@@ -17,12 +17,12 @@ function update() {
   document.body.className = getEnabled() ? '' : 'disabled';
 
   if (getEnabled()) {
-    $('title').innerText = 'Deluminate is Enabled';
+    $('title').innerText = 'Deluminate Dark is Enabled';
     $('toggle').innerHTML = '<b>Disable</b> ' +
                             '<span class="kb">(' + key1 + ')</span>';
     $('subcontrols').style.display = 'block';
   } else {
-    $('title').innerText = 'Deluminate is Disabled';
+    $('title').innerText = 'Deluminate Dark is Disabled';
     $('toggle').innerHTML = '<b>Enable</b> ' +
                             '<span class="kb">(' + key1 + ')</span>';
     $('subcontrols').style.display = 'none';
